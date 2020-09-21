@@ -1,3 +1,3 @@
-# eai_logger
+# eai-logger
 
 version de prueba
